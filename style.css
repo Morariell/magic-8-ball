@@ -1,0 +1,31 @@
+body {
+  border-radius: 15px;
+  width: 450px;
+  margin: 20px auto;
+  padding: 25px 150px 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-color: rgb(243, 171, 233);
+  background-color: rgb(255, 255, 255);
+  border: 4px solid rgb(243, 171, 233);
+  color: rgb(243, 171, 233);
+}
+
+html {
+  background: url("img/ppp.avif") no-repeat center fixed;
+  background-size: cover;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input[type="text"] {
+  width: 440px;
+  height: 25px;
+}
+
+hr {
+  border-color: rgb(243, 171, 233);
+}
